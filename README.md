@@ -10,6 +10,10 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
+Note that you need to download two sets of data before running the code.
+
+1. download the dataset of dog images here and place it in the respository.
+
 ## Project Motivation <a name="motivation"></a>
 
 This is ... project. I was interestested in using ... data to better understand:
