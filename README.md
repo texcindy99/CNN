@@ -12,8 +12,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 Note that you need to download two sets of data before running the code.
 
-1. Download the dataset of dog images here and place it in the respository.
-2. Download the VGG-16 model weights file linked here and place it in the bottleneck_features/ folder.
+1. Download the dataset of dog images [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) and place it in the respository.
+2. Download the output of dog images passing through the pretrained VGG-16 networ [here]() and place it in the bottleneck_features/ folder.
 
 ## Project Motivation <a name="motivation"></a>
 
