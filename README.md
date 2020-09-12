@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+You need to install TensorFlow to run the code here besides the Anaconda distribution of Python.
 
 Note that you need to download two sets of data before running the code.
 
@@ -17,11 +17,11 @@ Note that you need to download two sets of data before running the code.
 
 ## Project Motivation <a name="motivation"></a>
 
-This is ... project. I was interestested in using ... data to better understand:
+This is the image classification project using CNN. I was interestested in using pretrained VGG-16 network for ImageNet competition to classify the dog breed using dog images in my data base using the following steps:
 
-1. Q1
-2. Q2
-3. Q3
+1. Loading the data which is the output of dog images passing through the pretrained network, stopping at the last VGG-16 max pooling layer;
+2. Slice off the end of VGG-16 network and add a new classification layer with 133 nodes;
+3. Only training weights in the new layer and freeze the weights in other layers because the dog image set is relative small and has significant overlap with subset of ImageNet category.
 
 ## File Descriptions <a name="files"></a>
 
