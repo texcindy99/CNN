@@ -25,15 +25,13 @@ This is the image classification project using CNN. I was interestested in using
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is one notebook available here to showcase work related to the above steps. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There are ... data files used in the notebook. "..." is the data file for... .
-
-The data file is available at [website](http://....).
+There are two sets of data files need to be downloaded to run the notebook. The links are provided in Installation <a name="installation"></a> section.
 
 ## Results <a name="results"></a>
 
-The main findings of the code is ....
+The test score of the CNN network is 0.7.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
