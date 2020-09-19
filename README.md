@@ -27,12 +27,12 @@ This is the image classification project using CNN. I was interestested in using
 
 There is one notebook available here to showcase work related to the above steps. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There are two sets of data files need to be downloaded to run the notebook. The links are provided in Installation <a name="installation"></a> section.
+There are two sets of data files need to be downloaded to run the notebook. The links are provided in [Installation] <a name="installation"></a> section.
 
 ## Results <a name="results"></a>
 
-The test score of the CNN network is 0.7.
+The test score of the CNN network is 0.74.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
-Must give credit to .... for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](http://...).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Udacity for the data.  The data is available for [Udacity Data Science Nano Degree](http://...) students.
