@@ -35,4 +35,4 @@ The test score of the CNN network is 0.74.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
-Must give credit to Udacity for the data.  The data is available for [Udacity Data Science Nano Degree](http://...) students.
+Must give credit to Udacity for the data.  The data is available for [Udacity Data Science Nano Degree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) students.
