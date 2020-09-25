@@ -17,7 +17,7 @@ Note that you need to download two sets of data before running the code.
 
 ## Project Motivation <a name="motivation"></a>
 
-This is the image classification project using CNN. I was interestested in using pretrained VGG-16 network for ImageNet competition to classify the dog breed using dog images in my data base using the following steps:
+This is the image classification project using CNN and transfer learning. I was interestested in using pretrained VGG-16 network for ImageNet competition to classify the dog breed using dog images in my data base using the following steps:
 
 1. Loading the data which is the output of dog images passing through the pretrained network, stopping at the last VGG-16 max pooling layer;
 2. Slice off the end of VGG-16 network and add a new classification layer with 133 nodes;
